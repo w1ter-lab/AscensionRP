@@ -1,7 +1,7 @@
 ### Модпак и ресурспак для приватного сервера MRPG - http://discord.gg/kRwy7DwWg6
-> **Первый файл - Modpack**
+> **Первый zip архив - Modpack**
 
-> **Второй файл - Resourcepack**
+> **Второй zip архив - Resourcepack**
 
 Установка Модпака:
 1. Установите и откройте [CurseForge](https://download.overwolf.com/install/Download?ExtensionId=cfiahnpaolfnlgaihhmobmnjdafknjnjdpdabpcm&utm_term=eyJkb21haW4iOiJjZi13ZWIifQ%3D%3D);
